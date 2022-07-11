@@ -8,6 +8,12 @@ Usado na aula 02 de git
 `git pull origin nome-da-branch`
 por exemplo, git pull origin main
 
+---
+Agora você altera e/ou cria os arquivos conforme
+a solicitação do cliente e depois segue o processo
+abaixo
+---
+
 ## Para Adicionar os arquivos
 `git add .` ou `git add arquivo.html`
 
